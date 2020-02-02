@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/machinebox/progress"
 	"github.com/pkg/errors"
+	"github.com/vicnoah/progress"
 )
 
 func main() {
